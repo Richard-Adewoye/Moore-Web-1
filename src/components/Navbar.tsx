@@ -29,7 +29,7 @@ export default function Navbar() {
         <a href="#hero" className="flex items-center gap-2 group">
           <span className="w-2 h-2 rounded-full bg-moore-blue group-hover:scale-125 transition-transform" />
           <span className="text-xl font-extrabold tracking-tighter text-moore-white font-sans uppercase">
-            OMOSA
+            MOORE UNIVERSAL
           </span>
         </a>
 

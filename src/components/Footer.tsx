@@ -76,7 +76,7 @@ export default function Footer() {
                   <input
                     type="email"
                     required
-                    placeholder="e.g. richard@omosa.com"
+                    placeholder="e.g. richard@mooreuniversal.com"
                     value={formData.email}
                     onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                     className="border-b border-moore-white/20 bg-transparent focus:border-moore-blue focus:outline-none py-3 text-sm font-sans text-moore-white transition-colors"
@@ -189,8 +189,8 @@ export default function Footer() {
                   SECURED TELEMETRY
                 </span>
                 <p className="text-moore-white/60 text-xs md:text-sm font-sans font-light select-all">
-                  hello@omosa.agency<br />
-                  partner@omosa.agency
+                  hello@mooreuniversal.com<br />
+                  partner@mooreuniversal.com
                 </p>
               </div>
 
@@ -231,16 +231,16 @@ export default function Footer() {
         {/* Colossal Brand Typography Marquee requested: stretching edge to edge */}
         <div className="w-full text-center select-none border-t border-moore-white/10 pt-16 overflow-hidden">
           <h2
-            className="text-[14vw] font-black tracking-tighter text-neutral-900 hover:text-moore-blue transition-all duration-700 ease-in-out cursor-default select-none uppercase leading-none select-all"
+            className="text-[10vw] font-black tracking-tighter text-neutral-900 hover:text-moore-blue transition-all duration-700 ease-in-out cursor-default select-none uppercase leading-none select-all"
             style={{ fontFamily: "'font-sans', sans-serif" }}
           >
-            OMOSA
+            MOORE UNIVERSAL
           </h2>
         </div>
 
         {/* Global Copyright markers */}
         <div className="flex flex-col sm:flex-row items-center justify-between text-[10px] font-mono text-neutral-600 mt-12 gap-4 border-t border-moore-white/5 pt-8">
-          <span>© 2026 OMOSA GROUP. CRAFTED TO ADD POWERFUL VALUE AND DEEP RESONANCE.</span>
+          <span>© 2026 MOORE UNIVERSAL GROUP. CRAFTED TO ADD POWERFUL VALUE AND DEEP RESONANCE.</span>
           <div className="flex gap-4">
             <a href="#hero" className="hover:text-moore-blue transition-colors">SECURE ENDPOINTS</a>
             <a href="#hero" className="hover:text-moore-blue transition-colors">TERMS OF PARTNERSHIP</a>
