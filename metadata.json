@@ -1,0 +1,6 @@
+{
+  "name": "OMOSA Agency",
+  "description": "High-performance editorial landing page and cinematic showcase for OMOSA creative and strategic services design agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
